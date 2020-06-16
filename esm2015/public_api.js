@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of lit-element-codegen
+ */
+export { LitElementDocGenService } from './lib/lit-element-docgen.service';
+export { LitElementCodeGenService } from './lib/lit-element-codegen.service';
+export { LitElementCodeGenModule } from './lib/lit-element-codegen.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0B4bGF5ZXJzL2xpdC1lbGVtZW50LWNvZGVnZW4vIiwic291cmNlcyI6WyJwdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSx3Q0FBYyxrQ0FBa0MsQ0FBQztBQUNqRCx5Q0FBYyxtQ0FBbUMsQ0FBQztBQUNsRCx3Q0FBYyxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBsaXQtZWxlbWVudC1jb2RlZ2VuXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbGl0LWVsZW1lbnQtZG9jZ2VuLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9saXQtZWxlbWVudC1jb2RlZ2VuLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9saXQtZWxlbWVudC1jb2RlZ2VuLm1vZHVsZSc7XHJcbiJdfQ==

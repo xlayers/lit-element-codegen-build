@@ -1,0 +1,22 @@
+{
+  "name": "@xlayers/lit-element-codegen",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "@xlayers/web-codegen": "*"
+  },
+  "main": "bundles/xlayers-lit-element-codegen.umd.js",
+  "module": "fesm5/xlayers-lit-element-codegen.js",
+  "es2015": "fesm2015/xlayers-lit-element-codegen.js",
+  "esm5": "esm5/xlayers-lit-element-codegen.js",
+  "esm2015": "esm2015/xlayers-lit-element-codegen.js",
+  "fesm5": "fesm5/xlayers-lit-element-codegen.js",
+  "fesm2015": "fesm2015/xlayers-lit-element-codegen.js",
+  "typings": "xlayers-lit-element-codegen.d.ts",
+  "metadata": "xlayers-lit-element-codegen.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
